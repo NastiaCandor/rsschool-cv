@@ -30,7 +30,7 @@ function squareDigits(num){
 ```
 
 ## Experience
-My infotecs trainee project: ["TODO-list"](https://nastiacandor.github.io/infotecs-internship/)
+My infotecs trainee project: ["TODO-list"](https://nastiacandor.github.io/infotecs-internship-autumn22/)
 Used: HTML, CSS JS.
 
 RSschool project: ["Pet-story online"](https://nastiacandor.github.io/PetStory-online/pages/main/index.html)
