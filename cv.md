@@ -30,10 +30,10 @@ function squareDigits(num){
 ```
 
 ## Experience
-My infotecs "TODO-list" trainee project: https://nastiacandor.github.io/infotecs-internship/
+My infotecs trainee project: ["TODO-list"](https://nastiacandor.github.io/infotecs-internship/)
 Used: HTML, CSS JS.
 
-RSschool project "Pet-story online": https://nastiacandor.github.io/PetStory-online/pages/main/index.html
+RSschool project: ["Pet-story online"](https://nastiacandor.github.io/PetStory-online/pages/main/index.html)
 Used: HTML, CSS, JS, Sass.
 
 ## Education
