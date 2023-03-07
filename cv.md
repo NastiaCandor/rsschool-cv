@@ -1,6 +1,6 @@
 # Anastasia Dubova
 
-!(/assets/images/AnastasiaDubova.jpg)
+![Photo](/assets/images/AnastasiaDubova.jpg)
 
 ## Contacts
 
